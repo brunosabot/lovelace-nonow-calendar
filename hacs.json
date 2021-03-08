@@ -1,0 +1,6 @@
+{
+  "name": "Lovelace Nonow Calendar",
+  "content_in_root": true,
+  "filename": "lovelace-nonow-calendar.js",
+  "render_readme": true
+}

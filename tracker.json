@@ -1,0 +1,9 @@
+{
+  "lovelace-nonow-calendar.bundle": {
+    "updated_at": "2020-04-13",
+    "version": "0.0.1",
+    "remote_location": "https://raw.githubusercontent.com/brunosabot/lovelace-nonow-calendar/master/lovelace-nonow-calendar.js",
+    "visit_repo": "https://github.com/brunosabot/lovelace-nonow-calendar",
+    "changelog": "https://github.com/brunosabot/lovelace-nonow-calendar/releases/latest"
+  }
+}
